@@ -1,1 +1,7 @@
 # gitskills# Git Skills
+<<<<<<< HEAD
+Creating a new branch is quick & simple.
+=======
+Creating a new branch is quick AND simple.
+Creating a new branch is quick and simple.
+merge with no-ff test
